@@ -12,8 +12,6 @@ We use 3 different covid-19 datasets and perform data analysis Using python and 
 In this project, we used two datasets
 One is "covid_19_india" data set for different states and union territories and the second dataset "Covid_vaccine_statewise" is used for analyzing the status of vaccination in different states in India using python.
 
-Third dataset "country_wise_latest" is used for creating plots in tableau and to make dashboards from visuals.
-
 We use tableau software to create interesting visualizations for dataset – "country_wise_latest" and we will convert those visuals and put it in the form of a dashboard towards the end of the project.
 
 
